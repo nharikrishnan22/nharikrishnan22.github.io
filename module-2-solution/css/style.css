@@ -164,34 +164,3 @@ div {
     margin-left: auto;
     margin-bottom: 20px;
 }
-
-
-/* Desktop Devices */
-/* @media (min-width: 992px) {
-    section {
-        width: 30%;
-        float: left;
-        background-color: grey;
-        border: 1px solid black;
-        margin-right: 5px;
-    }
-} */
-/* Tablet Devices */
-/* @media (min-width: 768px) and (max-width: 991px) {
-    section {
-        width: 30%;
-        float: left;
-        background-color: grey;
-        border: 1px solid black;
-        margin: 5px;
-    }
-} */
-/* Mobile Devices */
-/* @media (max-width: 767px) {
-    section {
-        width: 100%;
-        background-color: grey;
-        border: 1px solid black;
-        margin: 5px;
-    }
-} */
